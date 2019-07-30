@@ -8528,9 +8528,9 @@ local text =  [[
 𝗧𝗵𝗶𝘀 𝘀𝗼𝘂𝗿𝗰𝗲 𝗶𝘀 𝗻𝗼𝘁 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝗳𝗼𝗿 𝗮𝗻𝘆 𝗽𝗲𝗿𝘀𝗼𝗻 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝘂𝘀 
 𝗕𝘆 :
 
- 👨🏻‍💻 [DIVIY](https://telegram.me/DIVIY_IQ) 
+ 👨🏻‍💻 [BESO](https://telegram.me/@Jll_Il) 
 
- 📡  [DIVIY CH](https://telegram.me/DIVIY_TR) 
+ 📡  [BESO CH](https://telegram.me/DIVIY_TR) 
 
 ]]
 send(msg.chat_id_, msg.id_, 1, text, 1, 'md')

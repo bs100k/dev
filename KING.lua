@@ -8530,7 +8530,7 @@ local text =  [[
 
  👨🏻‍💻 [BESO](https://telegram.me/@Jll_Il) 
 
- 📡  [BESO CH](https://telegram.me/DIVIY_TR) 
+ 📡  [BESO CH](https://telegram.me/BS100K) 
 
 ]]
 send(msg.chat_id_, msg.id_, 1, text, 1, 'md')
